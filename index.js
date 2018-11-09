@@ -17,5 +17,5 @@ function destructivelyRemoveFirstDriver(name) {
 }
 
 function appendDriver(name) {
-  return [...coolCats, 'Garfield'];
+  return [...drivers, 'Garfield'];
 }
